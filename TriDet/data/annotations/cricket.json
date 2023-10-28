@@ -1,0 +1,5001 @@
+{
+    "version": "Thumos14-30fps",
+    "database": {
+        "20221126_4139156_2overs": {
+            "subset": "Validation",
+            "duration": 433.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        7.83,
+                        10.2
+                    ],
+                    "segment(frames)": [
+                        235,
+                        306
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        25.97,
+                        28.67
+                    ],
+                    "segment(frames)": [
+                        779,
+                        860
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        66.03,
+                        68.6
+                    ],
+                    "segment(frames)": [
+                        1981,
+                        2058
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        88.37,
+                        91.47
+                    ],
+                    "segment(frames)": [
+                        2651,
+                        2744
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        119.3,
+                        122.27
+                    ],
+                    "segment(frames)": [
+                        3579,
+                        3668
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        148.67,
+                        151.23
+                    ],
+                    "segment(frames)": [
+                        4460,
+                        4537
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        199.23,
+                        203.23
+                    ],
+                    "segment(frames)": [
+                        5977,
+                        6097
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        236.0,
+                        239.4
+                    ],
+                    "segment(frames)": [
+                        7080,
+                        7182
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        270.97,
+                        274.17
+                    ],
+                    "segment(frames)": [
+                        8129,
+                        8225
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        294.93,
+                        297.6
+                    ],
+                    "segment(frames)": [
+                        8848,
+                        8928
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        316.67,
+                        319.67
+                    ],
+                    "segment(frames)": [
+                        9500,
+                        9590
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221203_4142396_2overs": {
+            "subset": "Validation",
+            "duration": 405.73,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        20.3,
+                        24.73
+                    ],
+                    "segment(frames)": [
+                        609,
+                        742
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        54.83,
+                        59.33
+                    ],
+                    "segment(frames)": [
+                        1645,
+                        1780
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        121.57,
+                        125.2
+                    ],
+                    "segment(frames)": [
+                        3647,
+                        3756
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        170.1,
+                        173.7
+                    ],
+                    "segment(frames)": [
+                        5103,
+                        5211
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        203.63,
+                        207.03
+                    ],
+                    "segment(frames)": [
+                        6109,
+                        6211
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        230.37,
+                        233.93
+                    ],
+                    "segment(frames)": [
+                        6911,
+                        7018
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        256.73,
+                        260.33
+                    ],
+                    "segment(frames)": [
+                        7702,
+                        7810
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        283.17,
+                        286.5
+                    ],
+                    "segment(frames)": [
+                        8495,
+                        8595
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        342.43,
+                        347.0
+                    ],
+                    "segment(frames)": [
+                        10273,
+                        10410
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        376.77,
+                        381.17
+                    ],
+                    "segment(frames)": [
+                        11303,
+                        11435
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221119_4139084_2overs": {
+            "subset": "Validation",
+            "duration": 358.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        32.4,
+                        36.93
+                    ],
+                    "segment(frames)": [
+                        972,
+                        1108
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        72.47,
+                        77.17
+                    ],
+                    "segment(frames)": [
+                        2174,
+                        2315
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        111.9,
+                        116.27
+                    ],
+                    "segment(frames)": [
+                        3357,
+                        3488
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        157.67,
+                        161.93
+                    ],
+                    "segment(frames)": [
+                        4730,
+                        4858
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        184.5,
+                        189.07
+                    ],
+                    "segment(frames)": [
+                        5535,
+                        5672
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        213.0,
+                        217.07
+                    ],
+                    "segment(frames)": [
+                        6390,
+                        6512
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        274.9,
+                        278.27
+                    ],
+                    "segment(frames)": [
+                        8247,
+                        8348
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        293.67,
+                        295.8
+                    ],
+                    "segment(frames)": [
+                        8810,
+                        8874
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        310.77,
+                        313.4
+                    ],
+                    "segment(frames)": [
+                        9323,
+                        9402
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        328.57,
+                        330.87
+                    ],
+                    "segment(frames)": [
+                        9857,
+                        9926
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        346.53,
+                        349.6
+                    ],
+                    "segment(frames)": [
+                        10396,
+                        10488
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221112_4142735_2overs": {
+            "subset": "Validation",
+            "duration": 309.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        0.0,
+                        1.87
+                    ],
+                    "segment(frames)": [
+                        0,
+                        56
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        15.77,
+                        18.33
+                    ],
+                    "segment(frames)": [
+                        473,
+                        550
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        31.57,
+                        34.17
+                    ],
+                    "segment(frames)": [
+                        947,
+                        1025
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        50.33,
+                        52.93
+                    ],
+                    "segment(frames)": [
+                        1510,
+                        1588
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        65.8,
+                        68.83
+                    ],
+                    "segment(frames)": [
+                        1974,
+                        2065
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        84.97,
+                        87.47
+                    ],
+                    "segment(frames)": [
+                        2549,
+                        2624
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        155.17,
+                        159.97
+                    ],
+                    "segment(frames)": [
+                        4655,
+                        4799
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        186.27,
+                        191.17
+                    ],
+                    "segment(frames)": [
+                        5588,
+                        5735
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        213.1,
+                        218.0
+                    ],
+                    "segment(frames)": [
+                        6393,
+                        6540
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        246.8,
+                        251.8
+                    ],
+                    "segment(frames)": [
+                        7404,
+                        7554
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        275.77,
+                        280.63
+                    ],
+                    "segment(frames)": [
+                        8273,
+                        8419
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        302.4,
+                        307.37
+                    ],
+                    "segment(frames)": [
+                        9072,
+                        9221
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221112_4139153_2overs": {
+            "subset": "Validation",
+            "duration": 556.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        16.2,
+                        17.67
+                    ],
+                    "segment(frames)": [
+                        486,
+                        530
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        133.1,
+                        134.57
+                    ],
+                    "segment(frames)": [
+                        3993,
+                        4037
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        160.23,
+                        161.83
+                    ],
+                    "segment(frames)": [
+                        4807,
+                        4855
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        195.03,
+                        196.63
+                    ],
+                    "segment(frames)": [
+                        5851,
+                        5899
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        318.2,
+                        319.73
+                    ],
+                    "segment(frames)": [
+                        9546,
+                        9592
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        397.5,
+                        399.43
+                    ],
+                    "segment(frames)": [
+                        11925,
+                        11983
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        425.3,
+                        427.27
+                    ],
+                    "segment(frames)": [
+                        12759,
+                        12818
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        451.9,
+                        453.8
+                    ],
+                    "segment(frames)": [
+                        13557,
+                        13614
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        479.6,
+                        481.6
+                    ],
+                    "segment(frames)": [
+                        14388,
+                        14448
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        507.8,
+                        509.77
+                    ],
+                    "segment(frames)": [
+                        15234,
+                        15293
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        537.23,
+                        539.23
+                    ],
+                    "segment(frames)": [
+                        16117,
+                        16177
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221203_4139160_2overs": {
+            "subset": "Validation",
+            "duration": 325.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        74.27,
+                        78.67
+                    ],
+                    "segment(frames)": [
+                        2228,
+                        2360
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        100.03,
+                        103.47
+                    ],
+                    "segment(frames)": [
+                        3001,
+                        3104
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        123.7,
+                        127.4
+                    ],
+                    "segment(frames)": [
+                        3711,
+                        3822
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        146.97,
+                        150.8
+                    ],
+                    "segment(frames)": [
+                        4409,
+                        4524
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        171.23,
+                        174.93
+                    ],
+                    "segment(frames)": [
+                        5137,
+                        5248
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        230.03,
+                        232.9
+                    ],
+                    "segment(frames)": [
+                        6901,
+                        6987
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        249.03,
+                        251.6
+                    ],
+                    "segment(frames)": [
+                        7471,
+                        7548
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        266.57,
+                        269.33
+                    ],
+                    "segment(frames)": [
+                        7997,
+                        8080
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        284.33,
+                        286.83
+                    ],
+                    "segment(frames)": [
+                        8530,
+                        8605
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        302.4,
+                        305.3
+                    ],
+                    "segment(frames)": [
+                        9072,
+                        9159
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        318.43,
+                        321.27
+                    ],
+                    "segment(frames)": [
+                        9553,
+                        9638
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20220327_3916886_2overs": {
+            "subset": "Validation",
+            "duration": 359.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        30.17,
+                        33.07
+                    ],
+                    "segment(frames)": [
+                        905,
+                        992
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        73.97,
+                        76.63
+                    ],
+                    "segment(frames)": [
+                        2219,
+                        2299
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        113.23,
+                        115.8
+                    ],
+                    "segment(frames)": [
+                        3397,
+                        3474
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        144.43,
+                        147.27
+                    ],
+                    "segment(frames)": [
+                        4333,
+                        4418
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        170.9,
+                        173.67
+                    ],
+                    "segment(frames)": [
+                        5127,
+                        5210
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        204.87,
+                        207.6
+                    ],
+                    "segment(frames)": [
+                        6146,
+                        6228
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        253.13,
+                        255.1
+                    ],
+                    "segment(frames)": [
+                        7594,
+                        7653
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        272.73,
+                        274.5
+                    ],
+                    "segment(frames)": [
+                        8182,
+                        8235
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        287.37,
+                        289.23
+                    ],
+                    "segment(frames)": [
+                        8621,
+                        8677
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        300.0,
+                        301.67
+                    ],
+                    "segment(frames)": [
+                        9000,
+                        9050
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        320.37,
+                        322.27
+                    ],
+                    "segment(frames)": [
+                        9611,
+                        9668
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        333.67,
+                        335.43
+                    ],
+                    "segment(frames)": [
+                        10010,
+                        10063
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221105_4139079_2overs": {
+            "subset": "Validation",
+            "duration": 418.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        5.1,
+                        8.47
+                    ],
+                    "segment(frames)": [
+                        153,
+                        254
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        31.77,
+                        35.2
+                    ],
+                    "segment(frames)": [
+                        953,
+                        1056
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        56.77,
+                        60.2
+                    ],
+                    "segment(frames)": [
+                        1703,
+                        1806
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        84.4,
+                        87.97
+                    ],
+                    "segment(frames)": [
+                        2532,
+                        2639
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        119.37,
+                        122.43
+                    ],
+                    "segment(frames)": [
+                        3581,
+                        3673
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        235.8,
+                        239.37
+                    ],
+                    "segment(frames)": [
+                        7074,
+                        7181
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        283.53,
+                        287.53
+                    ],
+                    "segment(frames)": [
+                        8506,
+                        8626
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        310.13,
+                        313.7
+                    ],
+                    "segment(frames)": [
+                        9304,
+                        9411
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        339.43,
+                        343.13
+                    ],
+                    "segment(frames)": [
+                        10183,
+                        10294
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        367.2,
+                        370.83
+                    ],
+                    "segment(frames)": [
+                        11016,
+                        11125
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        397.8,
+                        401.53
+                    ],
+                    "segment(frames)": [
+                        11934,
+                        12046
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221001_4139134_2overs": {
+            "subset": "Validation",
+            "duration": 341.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        21.33,
+                        26.43
+                    ],
+                    "segment(frames)": [
+                        640,
+                        793
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        51.0,
+                        55.93
+                    ],
+                    "segment(frames)": [
+                        1530,
+                        1678
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        80.17,
+                        84.87
+                    ],
+                    "segment(frames)": [
+                        2405,
+                        2546
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        108.57,
+                        113.3
+                    ],
+                    "segment(frames)": [
+                        3257,
+                        3399
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        139.27,
+                        143.87
+                    ],
+                    "segment(frames)": [
+                        4178,
+                        4316
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        181.93,
+                        185.73
+                    ],
+                    "segment(frames)": [
+                        5458,
+                        5572
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        210.4,
+                        214.13
+                    ],
+                    "segment(frames)": [
+                        6312,
+                        6424
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        238.5,
+                        241.87
+                    ],
+                    "segment(frames)": [
+                        7155,
+                        7256
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        267.23,
+                        270.23
+                    ],
+                    "segment(frames)": [
+                        8017,
+                        8107
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        327.73,
+                        331.37
+                    ],
+                    "segment(frames)": [
+                        9832,
+                        9941
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221112_4155986_2overs": {
+            "subset": "Validation",
+            "duration": 355.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        15.07,
+                        19.4
+                    ],
+                    "segment(frames)": [
+                        452,
+                        582
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        143.2,
+                        147.63
+                    ],
+                    "segment(frames)": [
+                        4296,
+                        4429
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        164.6,
+                        168.8
+                    ],
+                    "segment(frames)": [
+                        4938,
+                        5064
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        186.13,
+                        190.73
+                    ],
+                    "segment(frames)": [
+                        5584,
+                        5722
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        210.17,
+                        215.13
+                    ],
+                    "segment(frames)": [
+                        6305,
+                        6454
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        264.0,
+                        267.53
+                    ],
+                    "segment(frames)": [
+                        7920,
+                        8026
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        285.87,
+                        290.2
+                    ],
+                    "segment(frames)": [
+                        8576,
+                        8706
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        306.4,
+                        310.5
+                    ],
+                    "segment(frames)": [
+                        9192,
+                        9315
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        327.03,
+                        332.1
+                    ],
+                    "segment(frames)": [
+                        9811,
+                        9963
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        347.4,
+                        351.77
+                    ],
+                    "segment(frames)": [
+                        10422,
+                        10553
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221203_4139091_2overs": {
+            "subset": "Validation",
+            "duration": 384.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        4.57,
+                        8.2
+                    ],
+                    "segment(frames)": [
+                        137,
+                        246
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        31.9,
+                        35.57
+                    ],
+                    "segment(frames)": [
+                        957,
+                        1067
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        62.47,
+                        66.17
+                    ],
+                    "segment(frames)": [
+                        1874,
+                        1985
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        90.87,
+                        94.63
+                    ],
+                    "segment(frames)": [
+                        2726,
+                        2839
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        206.0,
+                        209.43
+                    ],
+                    "segment(frames)": [
+                        6180,
+                        6283
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        230.53,
+                        234.03
+                    ],
+                    "segment(frames)": [
+                        6916,
+                        7021
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        276.6,
+                        278.07
+                    ],
+                    "segment(frames)": [
+                        8298,
+                        8342
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        295.0,
+                        296.43
+                    ],
+                    "segment(frames)": [
+                        8850,
+                        8893
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        311.23,
+                        312.6
+                    ],
+                    "segment(frames)": [
+                        9337,
+                        9378
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        329.23,
+                        330.47
+                    ],
+                    "segment(frames)": [
+                        9877,
+                        9914
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        369.9,
+                        371.13
+                    ],
+                    "segment(frames)": [
+                        11097,
+                        11134
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221203_4156185_2overs": {
+            "subset": "Validation",
+            "duration": 292.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        19.97,
+                        21.93
+                    ],
+                    "segment(frames)": [
+                        599,
+                        658
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        51.87,
+                        53.87
+                    ],
+                    "segment(frames)": [
+                        1556,
+                        1616
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        76.7,
+                        78.67
+                    ],
+                    "segment(frames)": [
+                        2301,
+                        2360
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        102.47,
+                        104.47
+                    ],
+                    "segment(frames)": [
+                        3074,
+                        3134
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        127.9,
+                        129.87
+                    ],
+                    "segment(frames)": [
+                        3837,
+                        3896
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        177.0,
+                        179.3
+                    ],
+                    "segment(frames)": [
+                        5310,
+                        5379
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        193.53,
+                        195.8
+                    ],
+                    "segment(frames)": [
+                        5806,
+                        5874
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        238.5,
+                        240.77
+                    ],
+                    "segment(frames)": [
+                        7155,
+                        7223
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        261.27,
+                        263.63
+                    ],
+                    "segment(frames)": [
+                        7838,
+                        7909
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        280.8,
+                        283.2
+                    ],
+                    "segment(frames)": [
+                        8424,
+                        8496
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221203_4139162_2overs": {
+            "subset": "Validation",
+            "duration": 355.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        18.1,
+                        20.1
+                    ],
+                    "segment(frames)": [
+                        543,
+                        603
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        42.2,
+                        43.8
+                    ],
+                    "segment(frames)": [
+                        1266,
+                        1314
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        71.23,
+                        72.8
+                    ],
+                    "segment(frames)": [
+                        2137,
+                        2184
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        97.27,
+                        98.8
+                    ],
+                    "segment(frames)": [
+                        2918,
+                        2964
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        121.2,
+                        122.8
+                    ],
+                    "segment(frames)": [
+                        3636,
+                        3684
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        203.0,
+                        205.17
+                    ],
+                    "segment(frames)": [
+                        6090,
+                        6155
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        226.93,
+                        229.1
+                    ],
+                    "segment(frames)": [
+                        6808,
+                        6873
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        249.53,
+                        251.77
+                    ],
+                    "segment(frames)": [
+                        7486,
+                        7553
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        277.07,
+                        279.73
+                    ],
+                    "segment(frames)": [
+                        8312,
+                        8392
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        304.93,
+                        307.33
+                    ],
+                    "segment(frames)": [
+                        9148,
+                        9220
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        333.83,
+                        335.97
+                    ],
+                    "segment(frames)": [
+                        10015,
+                        10079
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221001_4139131_2overs": {
+            "subset": "Validation",
+            "duration": 290.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        35.83,
+                        37.77
+                    ],
+                    "segment(frames)": [
+                        1075,
+                        1133
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        56.37,
+                        58.5
+                    ],
+                    "segment(frames)": [
+                        1691,
+                        1755
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        85.47,
+                        87.53
+                    ],
+                    "segment(frames)": [
+                        2564,
+                        2626
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        102.73,
+                        105.03
+                    ],
+                    "segment(frames)": [
+                        3082,
+                        3151
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        127.07,
+                        129.53
+                    ],
+                    "segment(frames)": [
+                        3812,
+                        3886
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        145.53,
+                        147.9
+                    ],
+                    "segment(frames)": [
+                        4366,
+                        4437
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221112_4142385_2overs": {
+            "subset": "Validation",
+            "duration": 361.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        8.1,
+                        11.33
+                    ],
+                    "segment(frames)": [
+                        243,
+                        340
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        34.47,
+                        38.03
+                    ],
+                    "segment(frames)": [
+                        1034,
+                        1141
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        55.47,
+                        58.87
+                    ],
+                    "segment(frames)": [
+                        1664,
+                        1766
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        90.5,
+                        94.03
+                    ],
+                    "segment(frames)": [
+                        2715,
+                        2821
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        150.13,
+                        153.43
+                    ],
+                    "segment(frames)": [
+                        4504,
+                        4603
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        172.57,
+                        176.4
+                    ],
+                    "segment(frames)": [
+                        5177,
+                        5292
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        192.5,
+                        195.93
+                    ],
+                    "segment(frames)": [
+                        5775,
+                        5878
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        212.1,
+                        215.53
+                    ],
+                    "segment(frames)": [
+                        6363,
+                        6466
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        261.5,
+                        265.1
+                    ],
+                    "segment(frames)": [
+                        7845,
+                        7953
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        292.6,
+                        296.03
+                    ],
+                    "segment(frames)": [
+                        8778,
+                        8881
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        359.5,
+                        359.97
+                    ],
+                    "segment(frames)": [
+                        10785,
+                        10799
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221203_4139090_2overs": {
+            "subset": "Validation",
+            "duration": 493.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        32.1,
+                        33.43
+                    ],
+                    "segment(frames)": [
+                        963,
+                        1003
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        55.47,
+                        56.87
+                    ],
+                    "segment(frames)": [
+                        1664,
+                        1706
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        79.7,
+                        81.17
+                    ],
+                    "segment(frames)": [
+                        2391,
+                        2435
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        191.67,
+                        193.03
+                    ],
+                    "segment(frames)": [
+                        5750,
+                        5791
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        241.87,
+                        243.2
+                    ],
+                    "segment(frames)": [
+                        7256,
+                        7296
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        283.2,
+                        284.53
+                    ],
+                    "segment(frames)": [
+                        8496,
+                        8536
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        357.63,
+                        359.17
+                    ],
+                    "segment(frames)": [
+                        10729,
+                        10775
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        378.9,
+                        380.5
+                    ],
+                    "segment(frames)": [
+                        11367,
+                        11415
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        399.8,
+                        401.4
+                    ],
+                    "segment(frames)": [
+                        11994,
+                        12042
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        444.9,
+                        446.47
+                    ],
+                    "segment(frames)": [
+                        13347,
+                        13394
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        473.93,
+                        475.53
+                    ],
+                    "segment(frames)": [
+                        14218,
+                        14266
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221105_4142385_2overs": {
+            "subset": "Validation",
+            "duration": 326.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        12.8,
+                        15.63
+                    ],
+                    "segment(frames)": [
+                        384,
+                        469
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        32.5,
+                        34.83
+                    ],
+                    "segment(frames)": [
+                        975,
+                        1045
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        63.7,
+                        67.23
+                    ],
+                    "segment(frames)": [
+                        1911,
+                        2017
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        113.83,
+                        115.03
+                    ],
+                    "segment(frames)": [
+                        3415,
+                        3451
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        130.47,
+                        131.67
+                    ],
+                    "segment(frames)": [
+                        3914,
+                        3950
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        156.83,
+                        159.1
+                    ],
+                    "segment(frames)": [
+                        4705,
+                        4773
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        171.9,
+                        174.2
+                    ],
+                    "segment(frames)": [
+                        5157,
+                        5226
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        188.73,
+                        191.1
+                    ],
+                    "segment(frames)": [
+                        5662,
+                        5733
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        203.53,
+                        205.9
+                    ],
+                    "segment(frames)": [
+                        6106,
+                        6177
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        318.53,
+                        321.5
+                    ],
+                    "segment(frames)": [
+                        9556,
+                        9645
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221001_4139132_2overs": {
+            "subset": "Validation",
+            "duration": 302.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        0.0,
+                        2.83
+                    ],
+                    "segment(frames)": [
+                        0,
+                        85
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        18.5,
+                        22.67
+                    ],
+                    "segment(frames)": [
+                        555,
+                        680
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        47.1,
+                        51.2
+                    ],
+                    "segment(frames)": [
+                        1413,
+                        1536
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        66.97,
+                        71.2
+                    ],
+                    "segment(frames)": [
+                        2009,
+                        2136
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        95.97,
+                        100.0
+                    ],
+                    "segment(frames)": [
+                        2879,
+                        3000
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        115.4,
+                        120.73
+                    ],
+                    "segment(frames)": [
+                        3462,
+                        3622
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        174.23,
+                        176.83
+                    ],
+                    "segment(frames)": [
+                        5227,
+                        5305
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        194.7,
+                        197.37
+                    ],
+                    "segment(frames)": [
+                        5841,
+                        5921
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        216.9,
+                        219.47
+                    ],
+                    "segment(frames)": [
+                        6507,
+                        6584
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        244.6,
+                        247.2
+                    ],
+                    "segment(frames)": [
+                        7338,
+                        7416
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        272.67,
+                        275.13
+                    ],
+                    "segment(frames)": [
+                        8180,
+                        8254
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221203_4142743_2overs": {
+            "subset": "Validation",
+            "duration": 313.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        0.0,
+                        0.7
+                    ],
+                    "segment(frames)": [
+                        0,
+                        21
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        22.77,
+                        24.23
+                    ],
+                    "segment(frames)": [
+                        683,
+                        727
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        48.83,
+                        50.13
+                    ],
+                    "segment(frames)": [
+                        1465,
+                        1504
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        66.03,
+                        69.1
+                    ],
+                    "segment(frames)": [
+                        1981,
+                        2073
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        87.7,
+                        89.87
+                    ],
+                    "segment(frames)": [
+                        2631,
+                        2696
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        103.8,
+                        106.37
+                    ],
+                    "segment(frames)": [
+                        3114,
+                        3191
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        173.93,
+                        177.53
+                    ],
+                    "segment(frames)": [
+                        5218,
+                        5326
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        200.57,
+                        203.63
+                    ],
+                    "segment(frames)": [
+                        6017,
+                        6109
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        223.5,
+                        226.9
+                    ],
+                    "segment(frames)": [
+                        6705,
+                        6807
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        243.43,
+                        246.7
+                    ],
+                    "segment(frames)": [
+                        7303,
+                        7401
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        271.17,
+                        274.07
+                    ],
+                    "segment(frames)": [
+                        8135,
+                        8222
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        305.97,
+                        309.67
+                    ],
+                    "segment(frames)": [
+                        9179,
+                        9290
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221126_4155987_2overs": {
+            "subset": "Validation",
+            "duration": 295.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        18.93,
+                        21.67
+                    ],
+                    "segment(frames)": [
+                        568,
+                        650
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        67.17,
+                        69.2
+                    ],
+                    "segment(frames)": [
+                        2015,
+                        2076
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        90.9,
+                        93.23
+                    ],
+                    "segment(frames)": [
+                        2727,
+                        2797
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        105.7,
+                        107.97
+                    ],
+                    "segment(frames)": [
+                        3171,
+                        3239
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        194.17,
+                        196.43
+                    ],
+                    "segment(frames)": [
+                        5825,
+                        5893
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        212.53,
+                        214.73
+                    ],
+                    "segment(frames)": [
+                        6376,
+                        6442
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        232.77,
+                        235.17
+                    ],
+                    "segment(frames)": [
+                        6983,
+                        7055
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        291.7,
+                        293.67
+                    ],
+                    "segment(frames)": [
+                        8751,
+                        8810
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221203_4143496_2overs": {
+            "subset": "Validation",
+            "duration": 445.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        39.57,
+                        43.4
+                    ],
+                    "segment(frames)": [
+                        1187,
+                        1302
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        70.2,
+                        74.07
+                    ],
+                    "segment(frames)": [
+                        2106,
+                        2222
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        133.57,
+                        137.37
+                    ],
+                    "segment(frames)": [
+                        4007,
+                        4121
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        163.0,
+                        166.83
+                    ],
+                    "segment(frames)": [
+                        4890,
+                        5005
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        191.73,
+                        195.7
+                    ],
+                    "segment(frames)": [
+                        5752,
+                        5871
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        244.67,
+                        248.3
+                    ],
+                    "segment(frames)": [
+                        7340,
+                        7449
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        277.93,
+                        281.47
+                    ],
+                    "segment(frames)": [
+                        8338,
+                        8444
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        305.47,
+                        310.3
+                    ],
+                    "segment(frames)": [
+                        9164,
+                        9309
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        351.73,
+                        355.03
+                    ],
+                    "segment(frames)": [
+                        10552,
+                        10651
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        381.03,
+                        384.4
+                    ],
+                    "segment(frames)": [
+                        11431,
+                        11532
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        413.77,
+                        416.9
+                    ],
+                    "segment(frames)": [
+                        12413,
+                        12507
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221203_4139088_2overs": {
+            "subset": "Validation",
+            "duration": 378.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        9.33,
+                        10.47
+                    ],
+                    "segment(frames)": [
+                        280,
+                        314
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        32.17,
+                        33.7
+                    ],
+                    "segment(frames)": [
+                        965,
+                        1011
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        53.57,
+                        55.17
+                    ],
+                    "segment(frames)": [
+                        1607,
+                        1655
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        76.87,
+                        77.9
+                    ],
+                    "segment(frames)": [
+                        2306,
+                        2337
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        110.33,
+                        111.4
+                    ],
+                    "segment(frames)": [
+                        3310,
+                        3342
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        132.1,
+                        133.17
+                    ],
+                    "segment(frames)": [
+                        3963,
+                        3995
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        182.87,
+                        184.27
+                    ],
+                    "segment(frames)": [
+                        5486,
+                        5528
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        213.97,
+                        215.7
+                    ],
+                    "segment(frames)": [
+                        6419,
+                        6471
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        257.83,
+                        259.2
+                    ],
+                    "segment(frames)": [
+                        7735,
+                        7776
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        288.67,
+                        290.9
+                    ],
+                    "segment(frames)": [
+                        8660,
+                        8727
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        369.93,
+                        371.57
+                    ],
+                    "segment(frames)": [
+                        11098,
+                        11147
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221126_4139157_2overs": {
+            "subset": "Validation",
+            "duration": 246.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        15.4,
+                        18.73
+                    ],
+                    "segment(frames)": [
+                        462,
+                        562
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        29.73,
+                        33.47
+                    ],
+                    "segment(frames)": [
+                        892,
+                        1004
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        50.8,
+                        54.27
+                    ],
+                    "segment(frames)": [
+                        1524,
+                        1628
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        67.23,
+                        70.87
+                    ],
+                    "segment(frames)": [
+                        2017,
+                        2126
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        82.6,
+                        86.3
+                    ],
+                    "segment(frames)": [
+                        2478,
+                        2589
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        103.67,
+                        107.67
+                    ],
+                    "segment(frames)": [
+                        3110,
+                        3230
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        145.7,
+                        149.3
+                    ],
+                    "segment(frames)": [
+                        4371,
+                        4479
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        161.53,
+                        164.9
+                    ],
+                    "segment(frames)": [
+                        4846,
+                        4947
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        176.23,
+                        179.87
+                    ],
+                    "segment(frames)": [
+                        5287,
+                        5396
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        191.6,
+                        194.73
+                    ],
+                    "segment(frames)": [
+                        5748,
+                        5842
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        205.57,
+                        209.3
+                    ],
+                    "segment(frames)": [
+                        6167,
+                        6279
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        221.07,
+                        224.73
+                    ],
+                    "segment(frames)": [
+                        6632,
+                        6742
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221203_4139164_2overs": {
+            "subset": "Validation",
+            "duration": 332.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        0.0,
+                        2.63
+                    ],
+                    "segment(frames)": [
+                        0,
+                        79
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        26.77,
+                        30.5
+                    ],
+                    "segment(frames)": [
+                        803,
+                        915
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        57.9,
+                        61.67
+                    ],
+                    "segment(frames)": [
+                        1737,
+                        1850
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        84.4,
+                        88.5
+                    ],
+                    "segment(frames)": [
+                        2532,
+                        2655
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        109.9,
+                        114.03
+                    ],
+                    "segment(frames)": [
+                        3297,
+                        3421
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        138.43,
+                        142.2
+                    ],
+                    "segment(frames)": [
+                        4153,
+                        4266
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        197.03,
+                        200.67
+                    ],
+                    "segment(frames)": [
+                        5911,
+                        6020
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        224.3,
+                        227.0
+                    ],
+                    "segment(frames)": [
+                        6729,
+                        6810
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        251.3,
+                        254.03
+                    ],
+                    "segment(frames)": [
+                        7539,
+                        7621
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        278.5,
+                        281.23
+                    ],
+                    "segment(frames)": [
+                        8355,
+                        8437
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        305.0,
+                        307.5
+                    ],
+                    "segment(frames)": [
+                        9150,
+                        9225
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        328.57,
+                        329.97
+                    ],
+                    "segment(frames)": [
+                        9857,
+                        9899
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221203_4142744_2overs": {
+            "subset": "Validation",
+            "duration": 385.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        21.17,
+                        25.27
+                    ],
+                    "segment(frames)": [
+                        635,
+                        758
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        48.47,
+                        51.9
+                    ],
+                    "segment(frames)": [
+                        1454,
+                        1557
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        77.7,
+                        81.13
+                    ],
+                    "segment(frames)": [
+                        2331,
+                        2434
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        126.9,
+                        130.47
+                    ],
+                    "segment(frames)": [
+                        3807,
+                        3914
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        152.57,
+                        155.7
+                    ],
+                    "segment(frames)": [
+                        4577,
+                        4671
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        226.17,
+                        229.1
+                    ],
+                    "segment(frames)": [
+                        6785,
+                        6873
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        254.63,
+                        257.53
+                    ],
+                    "segment(frames)": [
+                        7639,
+                        7726
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        287.47,
+                        290.17
+                    ],
+                    "segment(frames)": [
+                        8624,
+                        8705
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        315.17,
+                        317.43
+                    ],
+                    "segment(frames)": [
+                        9455,
+                        9523
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        339.47,
+                        342.53
+                    ],
+                    "segment(frames)": [
+                        10184,
+                        10276
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        368.53,
+                        371.53
+                    ],
+                    "segment(frames)": [
+                        11056,
+                        11146
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221112_4142388_2overs": {
+            "subset": "Validation",
+            "duration": 344.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        2.8,
+                        5.3
+                    ],
+                    "segment(frames)": [
+                        84,
+                        159
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        21.83,
+                        24.8
+                    ],
+                    "segment(frames)": [
+                        655,
+                        744
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        75.03,
+                        78.03
+                    ],
+                    "segment(frames)": [
+                        2251,
+                        2341
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        92.43,
+                        95.47
+                    ],
+                    "segment(frames)": [
+                        2773,
+                        2864
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        111.2,
+                        114.23
+                    ],
+                    "segment(frames)": [
+                        3336,
+                        3427
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        130.4,
+                        133.6
+                    ],
+                    "segment(frames)": [
+                        3912,
+                        4008
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        147.67,
+                        150.6
+                    ],
+                    "segment(frames)": [
+                        4430,
+                        4518
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        164.4,
+                        166.5
+                    ],
+                    "segment(frames)": [
+                        4932,
+                        4995
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        212.8,
+                        215.53
+                    ],
+                    "segment(frames)": [
+                        6384,
+                        6466
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        234.33,
+                        237.3
+                    ],
+                    "segment(frames)": [
+                        7030,
+                        7119
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        252.07,
+                        254.5
+                    ],
+                    "segment(frames)": [
+                        7562,
+                        7635
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        266.2,
+                        268.47
+                    ],
+                    "segment(frames)": [
+                        7986,
+                        8054
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        282.87,
+                        285.37
+                    ],
+                    "segment(frames)": [
+                        8486,
+                        8561
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        309.57,
+                        312.17
+                    ],
+                    "segment(frames)": [
+                        9287,
+                        9365
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20210116_3645290_2overs": {
+            "subset": "Test",
+            "duration": 360.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        7.83,
+                        10.2
+                    ],
+                    "segment(frames)": [
+                        235,
+                        306
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        25.97,
+                        28.67
+                    ],
+                    "segment(frames)": [
+                        779,
+                        860
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        66.03,
+                        68.6
+                    ],
+                    "segment(frames)": [
+                        1981,
+                        2058
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        88.37,
+                        91.47
+                    ],
+                    "segment(frames)": [
+                        2651,
+                        2744
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        119.3,
+                        122.27
+                    ],
+                    "segment(frames)": [
+                        3579,
+                        3668
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        148.67,
+                        151.23
+                    ],
+                    "segment(frames)": [
+                        4460,
+                        4537
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        199.23,
+                        203.23
+                    ],
+                    "segment(frames)": [
+                        5977,
+                        6097
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        236.0,
+                        239.4
+                    ],
+                    "segment(frames)": [
+                        7080,
+                        7182
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221126_4142741_2overs": {
+            "subset": "Test",
+            "duration": 312.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        7.83,
+                        10.2
+                    ],
+                    "segment(frames)": [
+                        235,
+                        306
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        25.97,
+                        28.67
+                    ],
+                    "segment(frames)": [
+                        779,
+                        860
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        66.03,
+                        68.6
+                    ],
+                    "segment(frames)": [
+                        1981,
+                        2058
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        88.37,
+                        91.47
+                    ],
+                    "segment(frames)": [
+                        2651,
+                        2744
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        119.3,
+                        122.27
+                    ],
+                    "segment(frames)": [
+                        3579,
+                        3668
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        148.67,
+                        151.23
+                    ],
+                    "segment(frames)": [
+                        4460,
+                        4537
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        199.23,
+                        203.23
+                    ],
+                    "segment(frames)": [
+                        5977,
+                        6097
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        236.0,
+                        239.4
+                    ],
+                    "segment(frames)": [
+                        7080,
+                        7182
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221203_4111235_overs_33_34": {
+            "subset": "Test",
+            "duration": 559.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        7.83,
+                        10.2
+                    ],
+                    "segment(frames)": [
+                        235,
+                        306
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        25.97,
+                        28.67
+                    ],
+                    "segment(frames)": [
+                        779,
+                        860
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        66.03,
+                        68.6
+                    ],
+                    "segment(frames)": [
+                        1981,
+                        2058
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        88.37,
+                        91.47
+                    ],
+                    "segment(frames)": [
+                        2651,
+                        2744
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        119.3,
+                        122.27
+                    ],
+                    "segment(frames)": [
+                        3579,
+                        3668
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        148.67,
+                        151.23
+                    ],
+                    "segment(frames)": [
+                        4460,
+                        4537
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        199.23,
+                        203.23
+                    ],
+                    "segment(frames)": [
+                        5977,
+                        6097
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        236.0,
+                        239.4
+                    ],
+                    "segment(frames)": [
+                        7080,
+                        7182
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221119_4139083_2overs": {
+            "subset": "Test",
+            "duration": 343.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        7.83,
+                        10.2
+                    ],
+                    "segment(frames)": [
+                        235,
+                        306
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        25.97,
+                        28.67
+                    ],
+                    "segment(frames)": [
+                        779,
+                        860
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        66.03,
+                        68.6
+                    ],
+                    "segment(frames)": [
+                        1981,
+                        2058
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        88.37,
+                        91.47
+                    ],
+                    "segment(frames)": [
+                        2651,
+                        2744
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        119.3,
+                        122.27
+                    ],
+                    "segment(frames)": [
+                        3579,
+                        3668
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        148.67,
+                        151.23
+                    ],
+                    "segment(frames)": [
+                        4460,
+                        4537
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        199.23,
+                        203.23
+                    ],
+                    "segment(frames)": [
+                        5977,
+                        6097
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        236.0,
+                        239.4
+                    ],
+                    "segment(frames)": [
+                        7080,
+                        7182
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221126_4139083_2overs": {
+            "subset": "Test",
+            "duration": 571.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        7.83,
+                        10.2
+                    ],
+                    "segment(frames)": [
+                        235,
+                        306
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        25.97,
+                        28.67
+                    ],
+                    "segment(frames)": [
+                        779,
+                        860
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        66.03,
+                        68.6
+                    ],
+                    "segment(frames)": [
+                        1981,
+                        2058
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        88.37,
+                        91.47
+                    ],
+                    "segment(frames)": [
+                        2651,
+                        2744
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        119.3,
+                        122.27
+                    ],
+                    "segment(frames)": [
+                        3579,
+                        3668
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        148.67,
+                        151.23
+                    ],
+                    "segment(frames)": [
+                        4460,
+                        4537
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        199.23,
+                        203.23
+                    ],
+                    "segment(frames)": [
+                        5977,
+                        6097
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        236.0,
+                        239.4
+                    ],
+                    "segment(frames)": [
+                        7080,
+                        7182
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20210206_3645307_2overs": {
+            "subset": "Test",
+            "duration": 282.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        7.83,
+                        10.2
+                    ],
+                    "segment(frames)": [
+                        235,
+                        306
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        25.97,
+                        28.67
+                    ],
+                    "segment(frames)": [
+                        779,
+                        860
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        66.03,
+                        68.6
+                    ],
+                    "segment(frames)": [
+                        1981,
+                        2058
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        88.37,
+                        91.47
+                    ],
+                    "segment(frames)": [
+                        2651,
+                        2744
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        119.3,
+                        122.27
+                    ],
+                    "segment(frames)": [
+                        3579,
+                        3668
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        148.67,
+                        151.23
+                    ],
+                    "segment(frames)": [
+                        4460,
+                        4537
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        199.23,
+                        203.23
+                    ],
+                    "segment(frames)": [
+                        5977,
+                        6097
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        236.0,
+                        239.4
+                    ],
+                    "segment(frames)": [
+                        7080,
+                        7182
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20211120_3917049_2overs": {
+            "subset": "Test",
+            "duration": 286.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        7.83,
+                        10.2
+                    ],
+                    "segment(frames)": [
+                        235,
+                        306
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        25.97,
+                        28.67
+                    ],
+                    "segment(frames)": [
+                        779,
+                        860
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        66.03,
+                        68.6
+                    ],
+                    "segment(frames)": [
+                        1981,
+                        2058
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        88.37,
+                        91.47
+                    ],
+                    "segment(frames)": [
+                        2651,
+                        2744
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        119.3,
+                        122.27
+                    ],
+                    "segment(frames)": [
+                        3579,
+                        3668
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        148.67,
+                        151.23
+                    ],
+                    "segment(frames)": [
+                        4460,
+                        4537
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        199.23,
+                        203.23
+                    ],
+                    "segment(frames)": [
+                        5977,
+                        6097
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        236.0,
+                        239.4
+                    ],
+                    "segment(frames)": [
+                        7080,
+                        7182
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20211120_3916896_2overs": {
+            "subset": "Test",
+            "duration": 476.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        7.83,
+                        10.2
+                    ],
+                    "segment(frames)": [
+                        235,
+                        306
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        25.97,
+                        28.67
+                    ],
+                    "segment(frames)": [
+                        779,
+                        860
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        66.03,
+                        68.6
+                    ],
+                    "segment(frames)": [
+                        1981,
+                        2058
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        88.37,
+                        91.47
+                    ],
+                    "segment(frames)": [
+                        2651,
+                        2744
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        119.3,
+                        122.27
+                    ],
+                    "segment(frames)": [
+                        3579,
+                        3668
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        148.67,
+                        151.23
+                    ],
+                    "segment(frames)": [
+                        4460,
+                        4537
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        199.23,
+                        203.23
+                    ],
+                    "segment(frames)": [
+                        5977,
+                        6097
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        236.0,
+                        239.4
+                    ],
+                    "segment(frames)": [
+                        7080,
+                        7182
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20220327_3916807_2overs": {
+            "subset": "Test",
+            "duration": 444.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        7.83,
+                        10.2
+                    ],
+                    "segment(frames)": [
+                        235,
+                        306
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        25.97,
+                        28.67
+                    ],
+                    "segment(frames)": [
+                        779,
+                        860
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        66.03,
+                        68.6
+                    ],
+                    "segment(frames)": [
+                        1981,
+                        2058
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        88.37,
+                        91.47
+                    ],
+                    "segment(frames)": [
+                        2651,
+                        2744
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        119.3,
+                        122.27
+                    ],
+                    "segment(frames)": [
+                        3579,
+                        3668
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        148.67,
+                        151.23
+                    ],
+                    "segment(frames)": [
+                        4460,
+                        4537
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        199.23,
+                        203.23
+                    ],
+                    "segment(frames)": [
+                        5977,
+                        6097
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        236.0,
+                        239.4
+                    ],
+                    "segment(frames)": [
+                        7080,
+                        7182
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221001_4142369_2overs": {
+            "subset": "Test",
+            "duration": 411.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        7.83,
+                        10.2
+                    ],
+                    "segment(frames)": [
+                        235,
+                        306
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        25.97,
+                        28.67
+                    ],
+                    "segment(frames)": [
+                        779,
+                        860
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        66.03,
+                        68.6
+                    ],
+                    "segment(frames)": [
+                        1981,
+                        2058
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        88.37,
+                        91.47
+                    ],
+                    "segment(frames)": [
+                        2651,
+                        2744
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        119.3,
+                        122.27
+                    ],
+                    "segment(frames)": [
+                        3579,
+                        3668
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        148.67,
+                        151.23
+                    ],
+                    "segment(frames)": [
+                        4460,
+                        4537
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        199.23,
+                        203.23
+                    ],
+                    "segment(frames)": [
+                        5977,
+                        6097
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        236.0,
+                        239.4
+                    ],
+                    "segment(frames)": [
+                        7080,
+                        7182
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20210109_3648673_2overs": {
+            "subset": "Test",
+            "duration": 595.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        7.83,
+                        10.2
+                    ],
+                    "segment(frames)": [
+                        235,
+                        306
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        25.97,
+                        28.67
+                    ],
+                    "segment(frames)": [
+                        779,
+                        860
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        66.03,
+                        68.6
+                    ],
+                    "segment(frames)": [
+                        1981,
+                        2058
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        88.37,
+                        91.47
+                    ],
+                    "segment(frames)": [
+                        2651,
+                        2744
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        119.3,
+                        122.27
+                    ],
+                    "segment(frames)": [
+                        3579,
+                        3668
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        148.67,
+                        151.23
+                    ],
+                    "segment(frames)": [
+                        4460,
+                        4537
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        199.23,
+                        203.23
+                    ],
+                    "segment(frames)": [
+                        5977,
+                        6097
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        236.0,
+                        239.4
+                    ],
+                    "segment(frames)": [
+                        7080,
+                        7182
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20221126_4139082_2overs": {
+            "subset": "Test",
+            "duration": 374.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        7.83,
+                        10.2
+                    ],
+                    "segment(frames)": [
+                        235,
+                        306
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        25.97,
+                        28.67
+                    ],
+                    "segment(frames)": [
+                        779,
+                        860
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        66.03,
+                        68.6
+                    ],
+                    "segment(frames)": [
+                        1981,
+                        2058
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        88.37,
+                        91.47
+                    ],
+                    "segment(frames)": [
+                        2651,
+                        2744
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        119.3,
+                        122.27
+                    ],
+                    "segment(frames)": [
+                        3579,
+                        3668
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        148.67,
+                        151.23
+                    ],
+                    "segment(frames)": [
+                        4460,
+                        4537
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        199.23,
+                        203.23
+                    ],
+                    "segment(frames)": [
+                        5977,
+                        6097
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        236.0,
+                        239.4
+                    ],
+                    "segment(frames)": [
+                        7080,
+                        7182
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20230304_4142421_overs_7_8": {
+            "subset": "Test",
+            "duration": 524.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        7.83,
+                        10.2
+                    ],
+                    "segment(frames)": [
+                        235,
+                        306
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        25.97,
+                        28.67
+                    ],
+                    "segment(frames)": [
+                        779,
+                        860
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        66.03,
+                        68.6
+                    ],
+                    "segment(frames)": [
+                        1981,
+                        2058
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        88.37,
+                        91.47
+                    ],
+                    "segment(frames)": [
+                        2651,
+                        2744
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        119.3,
+                        122.27
+                    ],
+                    "segment(frames)": [
+                        3579,
+                        3668
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        148.67,
+                        151.23
+                    ],
+                    "segment(frames)": [
+                        4460,
+                        4537
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        199.23,
+                        203.23
+                    ],
+                    "segment(frames)": [
+                        5977,
+                        6097
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        236.0,
+                        239.4
+                    ],
+                    "segment(frames)": [
+                        7080,
+                        7182
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "20210220_3645317_2overs": {
+            "subset": "Test",
+            "duration": 485.03,
+            "fps": 30,
+            "annotations": [
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        7.83,
+                        10.2
+                    ],
+                    "segment(frames)": [
+                        235,
+                        306
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        25.97,
+                        28.67
+                    ],
+                    "segment(frames)": [
+                        779,
+                        860
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        66.03,
+                        68.6
+                    ],
+                    "segment(frames)": [
+                        1981,
+                        2058
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        88.37,
+                        91.47
+                    ],
+                    "segment(frames)": [
+                        2651,
+                        2744
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        119.3,
+                        122.27
+                    ],
+                    "segment(frames)": [
+                        3579,
+                        3668
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        148.67,
+                        151.23
+                    ],
+                    "segment(frames)": [
+                        4460,
+                        4537
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        199.23,
+                        203.23
+                    ],
+                    "segment(frames)": [
+                        5977,
+                        6097
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        236.0,
+                        239.4
+                    ],
+                    "segment(frames)": [
+                        7080,
+                        7182
+                    ],
+                    "label_id": 0
+                }
+            ]
+        }
+    }
+}
