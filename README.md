@@ -87,6 +87,3 @@ After running eval.py file, you will obtain a .pkl file.
 - Use `./tools/post_processing.py` to achieve our post-processing operations.
 
 Tips: Don't forget to modify the file paths.
-
- 
-# 2023-winners-Cricket-Bowl-Release-Detection-challenge
