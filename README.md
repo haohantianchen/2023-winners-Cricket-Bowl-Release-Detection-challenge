@@ -89,3 +89,4 @@ After running eval.py file, you will obtain a .pkl file.
 Tips: Don't forget to modify the file paths.
 
  
+# 2023-winners-Cricket-Bowl-Release-Detection-challenge
